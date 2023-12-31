@@ -6,3 +6,5 @@ El proyecto permite extraer masiva y automáticamente con un #Hashtag la fecha, 
 Web Scraping Instagram Data with Python
 Extract structured / tabular or unstructured data (videos, images, text, audio, etc.) from external sources such as a web page is a technique that allows to benchmark to researching competitors.
 The project allows to extract massive through a #Hashtag the date, User, Post, Likes, comments, Hashtag, Post Id, Post Link and Instagram image link in a DataFrame, supported by a word cloud.
+
+<img width="1317" alt="WebScraping" src="https://github.com/rayespinozah/WebScraping-Instagram/assets/92163016/e5cfcf7f-5e91-43f8-b7c0-7b930b4e2288">
